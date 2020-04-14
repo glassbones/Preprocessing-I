@@ -459,7 +459,6 @@ body header #leftHead #mobileLogo {
     justify-content: center;
     margin-left: -11%;
     width: 90vw;
-    border: solid green;
   }
 }
 @media (max-width: 600px) {
